@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Neelam Tousef</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate front-end developer from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithneelam&label=Profile%20views&color=0e75b6&style=flat" alt="codewithneelam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithneelam" alt="codewithneelam" /></a> </p>
-
-- 🔭 I’m currently working on **Hostel Management Website**
-
-- 🌱 I’m currently learning **React JS , Tailwind , Node JS**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 💬 Ask me about **html, CSS, bootstrap, C++,OOP ,**
-
-- 📫 How to reach me **neelumniaz@gmail.com**
+🔭 Currently building AI-powered applications using Claude API and Next.js.
+🌱 Currently learning React.js, Tailwind CSS, and Node.js
+👯 Looking to collaborate on web development projects
+💬 Ask me about HTML, CSS, Bootstrap, C++, and Object-Oriented Programming (OOP)
+📫 How to reach me: neelumneelum011@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
